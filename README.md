@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vinicius
+# Prazer me chamo Vinicius
 
 💻 Desenvolvedor em aprendizado na área de tecnologia.
 
